@@ -1,0 +1,14 @@
+(kicad_sch
+	(version 20231120)
+	(generator "eeschema")
+	(generator_version "8.0")
+	(uuid "c9b16d24-0731-42f5-ab19-75bc8001278d")
+	(paper "A2")
+	(title_block
+		(title "Primer Carrier for LattePanda Mu")
+		(date "2024-03-13")
+		(rev "V1.0.0")
+		(company "DFRobot")
+	)
+	(lib_symbols)
+)
